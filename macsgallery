@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <!-- test comment -->
+  <head>
+    
+    <!-- Add Google Tag Manager Here-->
+
+    <title>Mac's Gallery | Coming Soon!</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  </head>
+  
+  
+  <body>
+      <link href="https://fonts.googleapis.com/css?family=Montserrat|Quicksand&display=swap" rel="stylesheet">
+      <link href="macstyles.css" rel="stylesheet">
+  
+    <div id="container">
+
+      <section id="coming-soon">
+        <h1>Welcome to Mac's Gallery</h1>
+        <h2>Custom curated glass art</h2>
+        <p>New drops TBA</p>
+        <span><img src="https://cdn-icons-png.flaticon.com/128/174/174855.png" style="width: 50px; display: inline-block;">   <a href="https://www.instagram.com/macs_gallery" target="_blank">@macs_gallery</a></span>
+      </section>
+
+      <footer id="footer">
+        <!-- footer content here -->
+      </footer>
+  
+    </div>
+
+  </body>
+</html>
